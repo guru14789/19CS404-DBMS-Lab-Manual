@@ -47,8 +47,8 @@ Design a database for patient management, appointments, medical records, and bil
 
 # ER Diagram Submission
 
-NAME - Hashwatha M
-REGISTER NUMBER - 212223240051
+NAME - A.LAHARI
+REGISTER NUMBER - 212223230111
 
 ## Scenario Chosen:
 University ER Diagram
